@@ -14,7 +14,9 @@ After running these notebooks, you will be at a better starting point for any fu
 
 ## 1. Normalizing Edges:
 
-Edges represent links or relationships. They are the connections types between the entities, officers, intermediaries and addresses nodes in the dataset. Here we normalize the relationship types and descriptions to simplify the database into fewer edge categories.
+Edges represent links or relationships. They are the connections types between the entities, officers, intermediaries and addresses nodes in the dataset. 
+
+Here we quickly normalize the relationship types and descriptions to simplify the database into fewer edge categories.
 
 ## 2. Normalizing and Deduplicating Addresses with Fuzzy Matching:
 
