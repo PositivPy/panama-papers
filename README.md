@@ -27,7 +27,7 @@ Furthermore, using fuzzy matching 40,257 addresses (45% of the address database)
 ## 3. Normalizing and Deduplicating Officers: 
 Here, Bearer nodes where grouped and normalized before splitting the dataset into companies and people nodes. 
 
-A multilingual corpus of Incorporation markers was used to further cleanse the company names. The corpus is not available here as I have created CleanCorp, a library created specificaly for cleaning and infering on company names.
+A multilingual corpus of Incorporation markers was used to further cleanse the company names. The corpus is not available here as I have created [CleanCorp](https://github.com/Syker-uk/CleanCorp), a library created specificaly for cleaning and infering on company names.
 
 **Over 17% of the officer nodes in the database were removed as direct duplicates.**
 
