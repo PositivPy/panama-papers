@@ -1,6 +1,6 @@
 # Panama Papers: Data Cleaning Exercise
 
-This **offshore leak data** was *hand typed in multiple languages* (English, French, Spanish, Portuguese, German) by an international team of journalist, the **raw dataset is not ready for analysis**. 
+The panama papers **offshore leak data** was *hand typed in multiple languages* (English, French, Spanish, Portuguese, German) by an international team of journalist, the **raw dataset is not ready for analysis**. 
 
 You will find here 3 jupyter notebooks to help you clean this database. 
 
